@@ -1,0 +1,18 @@
+th tr,
+tr td {
+    text-align: center;
+    /* justify-content: space-between; */
+
+}
+
+table {
+    border-collapse: collapse;
+    width:100%;
+    /* justify-content: space-around; */
+}
+
+tr {
+    border-bottom: 0.3px solid grey;
+    height: 5vh;
+    margin-top: 5%;
+}
